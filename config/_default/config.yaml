@@ -11,6 +11,9 @@ params:
   logo:
     header: /assets/images/logo.png
     footer: /assets/images/logo.png
+  organizations:
+    single:
+      backlinks: false
   persons:
     single:
       backlinks: true
