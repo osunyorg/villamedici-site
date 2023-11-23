@@ -9,4 +9,8 @@ items:
   target: "/it/equipe/"
   kind: page
   children: []
+- title: Organisations
+  target: "/it/organisations/"
+  kind: page
+  children: []
 
