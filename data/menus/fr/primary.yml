@@ -13,8 +13,4 @@ items:
   target: ''
   kind: blank
   children: []
-- title: Actualités
-  target: "/fr/actualites/"
-  kind: page
-  children: []
 
