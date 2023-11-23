@@ -9,3 +9,5 @@ allowed_domains:
   - "www.youtube.com"
   - "img.youtube.com"
   - "youtu.be"
+  - "w.soundcloud.com"
+  - "soundcloud.com"
