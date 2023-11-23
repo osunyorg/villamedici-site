@@ -1,20 +1,16 @@
 ---
 title: Menu principal
 items:
-- title: Actualités
-  target: "/fr/actualites/"
-  kind: page
+- title: Visiter
+  target: ''
+  kind: blank
   children: []
 - title: Agenda
   target: "/fr/agenda/"
   kind: page
   children: []
-- title: Équipe
-  target: "/fr/equipe/"
-  kind: page
-  children: []
-- title: Organisations
-  target: "/fr/organisations/"
-  kind: page
+- title: Résidences
+  target: ''
+  kind: blank
   children: []
 
