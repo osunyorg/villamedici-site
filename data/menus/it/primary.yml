@@ -5,4 +5,8 @@ items:
   target: "/it/agenda/"
   kind: page
   children: []
+- title: Équipe
+  target: "/it/equipe/"
+  kind: page
+  children: []
 
