@@ -4,11 +4,7 @@ items:
 - title: Visiter
   target: "/fr/visiter/"
   kind: page
-  children:
-  - title: Plan du site
-    target: "/fr/plan-du-site/"
-    kind: page
-    children: []
+  children: []
 - title: Agenda
   target: "/fr/agenda/"
   kind: page
