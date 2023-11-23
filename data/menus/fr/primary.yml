@@ -21,4 +21,8 @@ items:
   target: "/fr/organisations/"
   kind: page
   children: []
+- title: Résidences
+  target: ''
+  kind: blank
+  children: []
 
