@@ -2,8 +2,8 @@
 title: Menu principal
 items:
 - title: Visiter
-  target: ''
-  kind: blank
+  target: "/fr/visiter/"
+  kind: page
   children: []
 - title: Agenda
   target: "/fr/agenda/"
