@@ -5,12 +5,12 @@ items:
   target: ''
   kind: blank
   children: []
-- title: Actualités
-  target: "/fr/actualites/"
-  kind: page
-  children: []
 - title: Agenda
   target: "/fr/agenda/"
+  kind: page
+  children: []
+- title: Actualités
+  target: "/fr/actualites/"
   kind: page
   children: []
 - title: Équipe
