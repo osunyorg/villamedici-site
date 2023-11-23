@@ -1,6 +1,10 @@
 ---
 title: Menu principal
 items:
+- title: Visiter
+  target: ''
+  kind: blank
+  children: []
 - title: Actualités
   target: "/fr/actualites/"
   kind: page
