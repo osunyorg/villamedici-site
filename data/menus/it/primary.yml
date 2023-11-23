@@ -13,4 +13,8 @@ items:
   target: "/it/organisations/"
   kind: page
   children: []
+- title: La Villa
+  target: "/it/la-villa/"
+  kind: page
+  children: []
 
