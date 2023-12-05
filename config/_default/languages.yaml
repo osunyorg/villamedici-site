@@ -7,8 +7,18 @@ it:
   languageName: Italiano
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
+    events_categories: /agenda/:slug/
     organizations: /organisations/:slug/
     persons: /equipe/:slug/
+  taxonomies:
+    administrator: administrators
+    author: authors
+    category: categories
+    posts_category: posts_categories
+    events_category: events_categories
+    diploma: diplomas
+    researcher: researchers
+    teacher: teachers
 en:
   title: Villa Médicis
   contentDir: content/en
@@ -16,8 +26,18 @@ en:
   languageName: English
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
+    events_categories: /agenda/:slug/
     organizations: /organisations/:slug/
     persons: /equipe/:slug/
+  taxonomies:
+    administrator: administrators
+    author: authors
+    category: categories
+    posts_category: posts_categories
+    events_category: events_categories
+    diploma: diplomas
+    researcher: researchers
+    teacher: teachers
 fr:
   title: Villa Médicis
   contentDir: content/fr
@@ -25,5 +45,15 @@ fr:
   languageName: Français
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
+    events_categories: /agenda/:slug/
     organizations: /organisations/:slug/
     persons: /equipe/:slug/
+  taxonomies:
+    administrator: administrators
+    author: authors
+    category: categories
+    posts_category: posts_categories
+    events_category: events_categories
+    diploma: diplomas
+    researcher: researchers
+    teacher: teachers
