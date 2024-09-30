@@ -1,8 +1,16 @@
 ---
 title: Menu principal
 items:
+- title: Actualités
+  target: "/it/actualites/"
+  kind: page
+  children: []
 - title: Agenda
   target: "/it/agenda/"
+  kind: page
+  children: []
+- title: La Villa
+  target: "/it/la-villa/"
   kind: page
   children: []
 - title: Équipe
@@ -11,10 +19,6 @@ items:
   children: []
 - title: Organisations
   target: "/it/organisations/"
-  kind: page
-  children: []
-- title: La Villa
-  target: "/it/la-villa/"
   kind: page
   children: []
 
