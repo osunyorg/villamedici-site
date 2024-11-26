@@ -5,10 +5,12 @@ items:
   target: "/fr/visiter/"
   kind: page
   children: []
+  file: content/fr/pages/visiter/_index.html
 - title: Agenda
   target: "/fr/agenda/"
   kind: page
   children: []
+  file: content/fr/events/_index.html
 - title: Résidences
   target: ''
   kind: blank
@@ -17,4 +19,5 @@ items:
   target: "/fr/la-villa/"
   kind: page
   children: []
+  file: content/fr/pages/la-villa/_index.html
 
