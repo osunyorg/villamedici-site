@@ -5,25 +5,30 @@ items:
   target: "/it/actualites/"
   kind: page
   children: []
+  path: "/posts"
   file: content/it/posts/_index.html
 - title: Agenda
   target: "/it/agenda/"
   kind: page
   children: []
+  path: "/events"
   file: content/it/events/_index.html
 - title: La Villa
   target: "/it/la-villa/"
   kind: page
   children: []
+  path: "/pages/la-villa"
   file: content/it/pages/la-villa/_index.html
 - title: Équipe
   target: "/it/equipe/"
   kind: page
   children: []
+  path: "/persons"
   file: content/it/persons/_index.html
 - title: Organisations
   target: "/it/organisations/"
   kind: page
   children: []
+  path: "/organizations"
   file: content/it/organizations/_index.html
 
