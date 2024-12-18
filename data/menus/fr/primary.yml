@@ -4,22 +4,26 @@ items:
 - title: Visiter
   target: "/fr/visiter/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/visiter"
   file: content/fr/pages/visiter/_index.html
 - title: Agenda
   target: "/fr/agenda/"
   kind: page
+  new_tab: false
   children: []
   path: "/events"
   file: content/fr/events/_index.html
 - title: Résidences
   target: ''
   kind: blank
+  new_tab: false
   children: []
 - title: La Villa
   target: "/fr/la-villa/"
   kind: page
+  new_tab: false
   children: []
   path: "/pages/la-villa"
   file: content/fr/pages/la-villa/_index.html
