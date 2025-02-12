@@ -2,6 +2,11 @@
 
 baseURL: https://villamedici-site.web.deuxfleurs.fr
 
+## OSUNY
+osuny:
+  website:
+    id: e7360368-d7dd-43c6-acce-76702bb896b6
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: true
