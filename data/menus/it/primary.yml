@@ -2,45 +2,57 @@
 title: Menu principal
 items:
 - title: Actualités
+  slug: actualites
   target: "/it/actualites/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/it/posts/_index.html
 - title: Agenda
+  slug: agenda
   target: "/it/agenda/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/events"
   file: content/it/events/_index.html
 - title: La Villa
+  slug: la-villa
   target: "/it/la-villa/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/la-villa"
   file: content/it/pages/la-villa/_index.html
 - title: Équipe
+  slug: equipe
   target: "/it/equipe/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/persons"
   file: content/it/persons/_index.html
 - title: Organisations
+  slug: organisations
   target: "/it/organisations/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/organizations"
   file: content/it/organizations/_index.html
 - title: Expositions
+  slug: expositions
   target: "/it/expositions/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/exhibitions"
   file: content/it/exhibitions/_index.html
 

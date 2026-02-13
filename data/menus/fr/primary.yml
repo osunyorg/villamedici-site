@@ -2,29 +2,37 @@
 title: Menu principal
 items:
 - title: Visiter
+  slug: visiter
   target: "/fr/visiter/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/visiter"
   file: content/fr/pages/visiter/_index.html
 - title: Agenda
+  slug: agenda
   target: "/fr/agenda/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/events"
   file: content/fr/events/_index.html
 - title: Résidences
+  slug: residences
   target: ''
   kind: blank
   new_tab: false
   children: []
+  descendants_targets: []
 - title: La Villa
+  slug: la-villa
   target: "/fr/la-villa/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/la-villa"
   file: content/fr/pages/la-villa/_index.html
 
