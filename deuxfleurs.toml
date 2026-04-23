@@ -13,3 +13,56 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/politique-de-confidentialite/"
+to = "/fr/politique-de-confidentialite/"
+
+[[redirects]]
+from = "/agenda/archives/"
+to = "/fr/agenda/archives/"
+
+[[redirects]]
+from = "/plan-du-site/"
+to = "/fr/plan-du-site/"
+
+[[redirects]]
+from = "/mentions-legales/"
+to = "/fr/mentions-legales/"
+
+[[redirects]]
+from = "/accessibilite/"
+to = "/fr/accessibilite/"
+
+[[redirects]]
+from = "/fr/agenda/2023-10-13-histoires-de-pierres/"
+to = "/fr/agenda/2023/histoires-de-pierres/"
+
+[[redirects]]
+from = "/equipe/equipe-editoriale/"
+to = "/fr/equipe/equipe-editoriale/"
+
+[[redirects]]
+from = "/agenda/"
+to = "/fr/agenda/"
+
+[[redirects]]
+from = "/fr/agenda/2023-06-10-una-linea-storta-tesa/"
+to = "/fr/agenda/2023/una-linea-storta-tesa/"
+
+[[redirects]]
+from = "/equipe/"
+to = "/fr/equipe/"
+
+[[redirects]]
+from = "/fr/agenda/2023-12-14-la-volonte-dhorizon-de-georges-henein-litterature-art-et-politique-50-ans-apres/"
+to = "/fr/agenda/2023/la-volonte-dhorizon-de-georges-henein-litterature-art-et-politique-50-ans-apres/"
+
+[[redirects]]
+from = "/actualites/"
+to = "/fr/actualites/"
+
+[[redirects]]
+from = "/organisations/"
+to = "/fr/organisations/"
+
