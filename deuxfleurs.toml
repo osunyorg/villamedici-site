@@ -15,54 +15,54 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/politique-de-confidentialite/"
+from = "/politique-de-confidentialite/index.html"
 to = "/fr/politique-de-confidentialite/"
 
 [[redirects]]
-from = "/agenda/archives/"
+from = "/agenda/archives/index.html"
 to = "/fr/agenda/archives/"
 
 [[redirects]]
-from = "/plan-du-site/"
+from = "/plan-du-site/index.html"
 to = "/fr/plan-du-site/"
 
 [[redirects]]
-from = "/mentions-legales/"
+from = "/mentions-legales/index.html"
 to = "/fr/mentions-legales/"
 
 [[redirects]]
-from = "/accessibilite/"
+from = "/accessibilite/index.html"
 to = "/fr/accessibilite/"
 
 [[redirects]]
-from = "/fr/agenda/2023-10-13-histoires-de-pierres/"
+from = "/fr/agenda/2023-10-13-histoires-de-pierres/index.html"
 to = "/fr/agenda/2023/histoires-de-pierres/"
 
 [[redirects]]
-from = "/equipe/equipe-editoriale/"
+from = "/equipe/equipe-editoriale/index.html"
 to = "/fr/equipe/equipe-editoriale/"
 
 [[redirects]]
-from = "/agenda/"
+from = "/agenda/index.html"
 to = "/fr/agenda/"
 
 [[redirects]]
-from = "/fr/agenda/2023-06-10-una-linea-storta-tesa/"
+from = "/fr/agenda/2023-06-10-una-linea-storta-tesa/index.html"
 to = "/fr/agenda/2023/una-linea-storta-tesa/"
 
 [[redirects]]
-from = "/equipe/"
+from = "/equipe/index.html"
 to = "/fr/equipe/"
 
 [[redirects]]
-from = "/fr/agenda/2023-12-14-la-volonte-dhorizon-de-georges-henein-litterature-art-et-politique-50-ans-apres/"
+from = "/fr/agenda/2023-12-14-la-volonte-dhorizon-de-georges-henein-litterature-art-et-politique-50-ans-apres/index.html"
 to = "/fr/agenda/2023/la-volonte-dhorizon-de-georges-henein-litterature-art-et-politique-50-ans-apres/"
 
 [[redirects]]
-from = "/actualites/"
+from = "/actualites/index.html"
 to = "/fr/actualites/"
 
 [[redirects]]
-from = "/organisations/"
+from = "/organisations/index.html"
 to = "/fr/organisations/"
 
