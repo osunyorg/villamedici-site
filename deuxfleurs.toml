@@ -27,12 +27,20 @@ from = "/plan-du-site/index.html"
 to = "/fr/plan-du-site/"
 
 [[redirects]]
+from = "/it/2026/index.html"
+to = "/it/2026/vm-ra2014--1-pdf/"
+
+[[redirects]]
 from = "/mentions-legales/index.html"
 to = "/fr/mentions-legales/"
 
 [[redirects]]
 from = "/accessibilite/index.html"
 to = "/fr/accessibilite/"
+
+[[redirects]]
+from = "/fr/fichiers/2026/index.html"
+to = "/fr/fichiers/2026/vm-ra2014--1-pdf/"
 
 [[redirects]]
 from = "/fr/agenda/2023-10-13-histoires-de-pierres/index.html"
