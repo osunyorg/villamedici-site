@@ -19,6 +19,10 @@ from = "/politique-de-confidentialite/index.html"
 to = "/fr/politique-de-confidentialite/"
 
 [[redirects]]
+from = "/it/2026/vm-ra2017pdf/index.html"
+to = "/it/fichiers/2026/vm-ra2017pdf/"
+
+[[redirects]]
 from = "/agenda/archives/index.html"
 to = "/fr/agenda/archives/"
 
@@ -28,7 +32,11 @@ to = "/fr/plan-du-site/"
 
 [[redirects]]
 from = "/it/2026/index.html"
-to = "/it/2026/vm-ra2014--1-pdf/"
+to = "/it/fichiers/2026/vm-ra2014--1-pdf/"
+
+[[redirects]]
+from = "/it/2026/rapport-activite-2019pdf/index.html"
+to = "/it/fichiers/2026/rapport-activite-2019pdf/"
 
 [[redirects]]
 from = "/mentions-legales/index.html"
@@ -47,6 +55,10 @@ from = "/fr/agenda/2023-10-13-histoires-de-pierres/index.html"
 to = "/fr/agenda/2023/histoires-de-pierres/"
 
 [[redirects]]
+from = "/it/2026/vm-ra2014--1-pdf/index.html"
+to = "/it/fichiers/2026/vm-ra2014--1-pdf/"
+
+[[redirects]]
 from = "/equipe/equipe-editoriale/index.html"
 to = "/fr/equipe/equipe-editoriale/"
 
@@ -63,6 +75,18 @@ from = "/equipe/index.html"
 to = "/fr/equipe/"
 
 [[redirects]]
+from = "/it/2026/rapport-activites-2016pdf/index.html"
+to = "/it/fichiers/2026/rapport-activites-2016pdf/"
+
+[[redirects]]
+from = "/it/2026/rapport-d-activit--2015pdf/index.html"
+to = "/it/fichiers/2026/rapport-d-activit--2015pdf/"
+
+[[redirects]]
+from = "/it/2026/rapport-activites-2021pdf/index.html"
+to = "/it/fichiers/2026/rapport-activites-2021pdf/"
+
+[[redirects]]
 from = "/fr/agenda/2023-12-14-la-volonte-dhorizon-de-georges-henein-litterature-art-et-politique-50-ans-apres/index.html"
 to = "/fr/agenda/2023/la-volonte-dhorizon-de-georges-henein-litterature-art-et-politique-50-ans-apres/"
 
@@ -73,4 +97,16 @@ to = "/fr/actualites/"
 [[redirects]]
 from = "/organisations/index.html"
 to = "/fr/organisations/"
+
+[[redirects]]
+from = "/it/2026/rapport-activites-2022pdf/index.html"
+to = "/it/fichiers/2026/rapport-activites-2022pdf/"
+
+[[redirects]]
+from = "/it/2026/vm-ra-2018-def-190610pdf/index.html"
+to = "/it/fichiers/2026/vm-ra-2018-def-190610pdf/"
+
+[[redirects]]
+from = "/it/2026/rapport-activite-2020pdf/index.html"
+to = "/it/fichiers/2026/rapport-activite-2020pdf/"
 
